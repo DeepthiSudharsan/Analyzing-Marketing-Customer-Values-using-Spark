@@ -27,6 +27,8 @@ https://www.kaggle.com/pankajjsh06/ibm-watson-marketing-customer-value-data
 #### Analysis of Customer Information (analysiscustomer.scala)
 #### Analysis of Company Information (analysiscompany.scala)
 
-### The codes have been annotated and the outputs have also been commented out for reference
+#### The codes have been annotated and the outputs have also been commented out for reference
 
+***
 
+#### On execution, analysiscompany.scala creates 4 csv files - cov_vs_clv.csv, nump_vs_clv.csv, state_vs_clv.csv and policy_vs_clv.csv with the coverage vs CLV, number of policies vs CLV, state vs CLV, policy type vs CLV respectively for later visualization (check out the visualization folder)
