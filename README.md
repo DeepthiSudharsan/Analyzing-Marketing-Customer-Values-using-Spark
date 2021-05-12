@@ -1,6 +1,5 @@
 ## Analyzing Marketing Customer Value Data using Apache Spark 
 ### ------------------- (Using only Scala map-reduce Spark API) -------------------
-***
 
 ### DATA 
 
