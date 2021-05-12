@@ -27,7 +27,7 @@ https://www.kaggle.com/pankajjsh06/ibm-watson-marketing-customer-value-data
 #### Analysis of Customer Information (analysiscustomer.scala)
 #### Analysis of Company Information (analysiscompany.scala)
 
-#### The codes have been annotated and the outputs have also been commented out for reference
+#### The codes have been annotated and the outputs have also been commented out for reference. The conclusions after the analysis have been commented at the fag end of the code. 
 
 ***
 
