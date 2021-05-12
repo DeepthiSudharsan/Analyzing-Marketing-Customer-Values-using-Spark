@@ -7,6 +7,13 @@
 
 https://www.kaggle.com/pankajjsh06/ibm-watson-marketing-customer-value-data
 
+##### First two rows of the dataset after dropping columns that aren't being used in this project
+
+| State      | Customer Lifetime Value | Response | Coverage | Education | Effective To Date | Employment | Gender | Marital Status | Number of Policies | Policy       | Sales Channel | Total Claim | Vehicle Class | Vehicle Size |
+|------------|-------------------------|----------|----------|-----------|-------------------|------------|--------|----------------|--------------------|--------------|---------------|-------------|---------------|--------------|
+| Washington | 2763.519                | No       | Basic    | Bachelor  | 2/24/2011         | Employed   | F      | 56274          | 1                  | Corporate L3 | Agent         | 384.8111    | Two-Door Car  | Medsize      |
+| Arizona    | 6979.536                | No       | Extended | Bachelor  | 1/31/2011         | Unemployed | F      | 0              | 8                  | Personal L3  | Agent         | 1131.465    | Four-Door Car | Medsize      |
+
 ***
 
 ### HOW TO RUN?
