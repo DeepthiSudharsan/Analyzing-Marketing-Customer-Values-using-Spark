@@ -3,7 +3,7 @@
 
 ### DATA 
 
-#### Data used for this project is from Kaggle. The data can be downloaded from here :
+#### Data used for this project is from Kaggle (stored as MCVA.csv in my system as shown in the repo). The data can be downloaded from here :
 
 https://www.kaggle.com/pankajjsh06/ibm-watson-marketing-customer-value-data
 
