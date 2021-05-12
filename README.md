@@ -12,10 +12,14 @@ https://www.kaggle.com/pankajjsh06/ibm-watson-marketing-customer-value-data
 ### HOW TO RUN?
 
 #### Once the data and the scala codes are all downloaded in the same place, run the loadproject.scala using the command 
-
+```
 :load loadproject.scala
-
+```
 #### This file will run the other 3 scala codes i.e.,
 #### The reading data code (readdata.scala)
 #### Analysis of Customer Information (analysiscustomer.scala)
 #### Analysis of Company Information (analysiscompany.scala)
+
+### The codes have been annotated and the outputs have also been commented out for reference
+
+
