@@ -1,0 +1,33 @@
+============================                                 ============================
+                               FROM analysiscustomer.scala
+============================                                 ============================
+
+          ---------------------------- CONCLUSIONS ------------------------------
+
+-> Most of the customers hail from the state of California
+-> Washington is the state with the least customers
+-> Most customers are employed
+-> A large number of customers have finished college or got their bachelor degrees
+-> The number of doctors are relatively less
+-> Most customers own a four-door car and very few customers own Luxury SUVs or Luxury cars
+-> Midsize vehicles are the most common choice among the customers
+
+============================                                 ============================
+                               FROM analysiscompany.scala
+============================                                 ============================
+
+          ---------------------------- CONCLUSIONS ------------------------------
+
+-> Agents were the most popular sales channel
+-> The responses were mostly negative, but the highest positive rate was through agents
+-> Most customers used Personal L3 policy and least used is special L1
+-> Most customers chose 1 Policy
+-> Basic Coverage was mostly subscribed
+-> The people with higher CLV have subscribed mostly to Premium, basic becomes more scarce
+-> 2081 customers opted for the best policy and coverage plan, 
+    only 38 people opted for the most popular coverage and least opted policy type
+-> As high as 3251 customers have enrolled in only one policy plan, and as less as 372 people 
+    opted for 6 policies. There does not seem to be any direct relationship between the number of policies 
+    and total no of customers as about 416 customers have subscribed to about 9 policy plans
+-> Most of the custtomers with high CLV have opted for either one of the 3 Personal policy types and Basic coverage type
+-> We see there is no direct relationship betweenbCLV and no of policies
