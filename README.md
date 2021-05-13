@@ -18,7 +18,7 @@ https://www.kaggle.com/pankajjsh06/ibm-watson-marketing-customer-value-data
 
 ### HOW TO RUN?
 
-#### Once the data and the scala codes are all downloaded in the same place, run the loadproject.scala using the command 
+#### Once the data and the scala codes are all downloaded in the same place, run the loadproject.scala in the spark shell using the command 
 ```
 :load loadproject.scala
 ```
