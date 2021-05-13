@@ -31,4 +31,4 @@ https://www.kaggle.com/pankajjsh06/ibm-watson-marketing-customer-value-data
 
 ***
 
-#### On execution, analysiscompany.scala creates a csv file -  with the coverage vs CLV, number of policies vs CLV, state vs CLV, policy type vs CLV data for later visualization (check out the visualization folder)
+#### On execution, analysiscompany.scala creates a folder with a csv file with the coverage vs CLV, number of policies vs CLV, state vs CLV, policy type vs CLV data for later visualization (check out the visualization folder). The folder has been zipped and uploaded as CLV_vs_all in this repo. I have also renamed and uploaded just the csv file alone as clv_vs_all4. Another duplicate copy of this file in xlsx format - csv_vs_all has been created to visualize the plots and save the plots on the sheet. This file can be found in the visualiztion folder.  
