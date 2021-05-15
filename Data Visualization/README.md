@@ -1,6 +1,6 @@
 ### MCVA - Visualize.csv consists of all the columns of the MCVA data that we are using for visualization.
 
-### MCVA_Visualize.twb is the tableau worksheet consisting of the visualizations dashboards for some of the customer information and company information.
+### MCVA_Visualize.twb is the tableau worksheet consisting of the visualization dashboards for some of the customer and company information.
 
 ### Company_info and Customer_info are the exported png files of the two dashboards. 
 
